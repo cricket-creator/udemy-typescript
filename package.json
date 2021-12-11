@@ -1,0 +1,22 @@
+{
+  "name": "udemy-typescript",
+  "version": "1.0.0",
+  "description": "typescript lessons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cricket-creator/udemy-typescript.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Rakhaev Pavel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cricket-creator/udemy-typescript/issues"
+  },
+  "homepage": "https://github.com/cricket-creator/udemy-typescript#readme"
+}
