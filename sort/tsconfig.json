@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "module": "commonjs",
+    "target": "es5",
+    "rootDir": "./src",
+    "outDir": "./build",
+    "watch": true
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
