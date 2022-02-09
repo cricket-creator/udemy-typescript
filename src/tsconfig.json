@@ -1,0 +1,14 @@
+{
+  "files": [
+    "./index.ts"
+  ],
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "ES6",
+    "watch": false
+  },
+  "compileOnSave": false,
+  "exclude": [
+    "node_modules"
+  ]
+}
